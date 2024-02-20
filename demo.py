@@ -1,1 +1,1 @@
-print("BISMILLAH");
+print("BISMILLAH"); n
